@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,700&display=swap');
+
+// :root {
+//     --variable-one: 25px;
+//     --variable-two: 80%;
+
+//     The above example is how we would set variables in CSS, if you'd like to use one
+//     of the variables, you must set the value of the property such like this:
+
+//     Example: font-size: var(--variable-one);
+// }
+
+body {
+    background: lightblue;
+    display: flex;
+    flex-direction: row-reverse;
+    display: inline;
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-size: 3rem;
+}
